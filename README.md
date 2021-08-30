@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @govargit
 - 👀 I’m interested in OSS
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Data science
+- 💞️ I’m looking to collaborate on Data science and AI
 - 📫 How to reach me aturu.govardhan@gmail.com
 
 <!---
